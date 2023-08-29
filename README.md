@@ -66,7 +66,7 @@ Python Gurobi Docker Workspace/
 
 4. Click the button to generate your Academic License gurobi.lic.
 
-5. Create a folder and name it "lic", then place the files inside.
+5. Create a folder and name it "lic", then place the file gurobi.lic inside.
 
 Eventually, the file structure become as below:
 ```
