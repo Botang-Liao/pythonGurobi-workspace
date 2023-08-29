@@ -79,8 +79,8 @@ ITH Docker Workspace/
 │   ├── requirements.txt    # python package list
 │   ├── start.sh            # execute when a container created
 │   └── startup             # useful commands message
-├── ==lic==/
-│   └── ==gurobi.lic==
+├── lic/             
+│   └── gurobi.lic    <---- please add this file into folder
 └── temp/
     ├── .vscode-server/     # remote dev server of VSCode (mount to container)
 ```
